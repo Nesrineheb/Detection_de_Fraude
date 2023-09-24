@@ -8,7 +8,7 @@ La base de données utilisée contient des transactions effectuées par des titu
 
 ## Modèles de Machine Learning 🤖
 
-Nous explorons plusieurs modèles de machine learning pour la détection de fraudes :
+J'ai exploré plusieurs modèles de machine learning pour la détection de fraudes :
 
 - Modèle de Forêt Aléatoire 🌲🔮
 - Modèle d'Arbre de Décision 🌳🧠
