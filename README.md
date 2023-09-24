@@ -18,15 +18,15 @@ Nous explorons plusieurs modèles de machine learning pour la détection de frau
 
 - Python 🐍
 - Scikit-Learn 🧬
-- Keras 🧠
-- TensorFlow 🧪
+- Pandas 🧠
+- Numpy 🧪
 - Google Colab 📚
 
 ## Structure du Projet 📂
 
 - `code/`: Ce répertoire contient le code Python utilisé pour l'exploration des données, l'entraînement des modèles et l'évaluation des performances.
 - `data/`: Vous pouvez télécharger le jeu de données à partir du [lien Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download) et le placer dans ce répertoire.
-- `models/`: Ce répertoire contiendra les modèles entraînés une fois que le projet sera terminé (nous avons sauvegardé le modèle de la forêt aléatoire pour le moment).
+- `models/`: Ce répertoire contiendra les modèles entraînés une fois que le projet sera terminé (j'ai sauvegardé le modèle de la forêt aléatoire pour le moment).
 - `README.md`: Le fichier que vous lisez actuellement, fournissant des informations sur le projet.
 
 ## Prétraitement des Données 🧹📊
@@ -47,4 +47,4 @@ N'hésitez pas à contribuer à ce projet en créant des pull requests ou en sig
 
 **Auteur : HEBBADJ NESRINE 🧑‍💻**
 
-**Date : [Date de la dernière mise à jour] 📅**
+
