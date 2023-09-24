@@ -31,7 +31,7 @@ J'ai exploré plusieurs modèles de machine learning pour la détection de fraud
 
 ## Prétraitement des Données 🧹📊
 
-Avant de construire nos modèles, nous avons effectué une exploration de base des données pour comprendre la nature des transactions et leur répartition entre les classes (fraude et non-fraude). Nous avons également divisé les données en ensembles d'entraînement et de test, et nous avons examiné les statistiques descriptives.
+Avant de construire nos modèles, j'ai effectué une exploration de base des données pour comprendre la nature des transactions et leur répartition entre les classes (fraude et non-fraude). J'ai également divisé les données en ensembles d'entraînement et de test, et j'ai examiné les statistiques descriptives.
 
 ## Guide d'Utilisation 📖🚀
 
